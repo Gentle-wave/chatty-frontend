@@ -1,4 +1,4 @@
-# Mini Web Chat App
+# Chat App
 
 A lightweight, real-time chat application that allows users to sign up, log in, view available users, and chat with them. Messages are stored in a backend server, while the frontend uses **Redux Toolkit** for state management and **Socket.IO** for real-time communication.
 
