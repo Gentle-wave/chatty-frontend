@@ -26,7 +26,7 @@ A lightweight, real-time chat application that allows users to sign up, log in, 
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/AjKenz/friend-connect.git>
+   git clone
    cd friend-connect
 
 2. Install dependencies
